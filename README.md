@@ -1,4 +1,7 @@
-# 广东机电职院项目2
+# 广东机电职院课2
+
+[![Fork Me On Gitee!](https://gitee.com/WENZI2020/GarbageSorter/widgets/widget_3.svg)](https://gitee.com/WENZI2020/GarbageSorter)<br/>
+AI 机器学习全整理[中译版](README.en.md) ![](https://img.shields.io/badge/曾昭文-培训资料-blue.svg)<br/>
 
 #### 介绍
 {**以下是 Gitee 平台说明，您可以替换此简介**
